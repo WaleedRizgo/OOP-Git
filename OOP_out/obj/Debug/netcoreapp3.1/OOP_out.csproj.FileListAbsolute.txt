@@ -10,3 +10,16 @@ C:\Users\MeDoSys\source\repos\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.c
 C:\Users\MeDoSys\source\repos\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.dll
 C:\Users\MeDoSys\source\repos\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.pdb
 C:\Users\MeDoSys\source\repos\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.genruntimeconfig.cache
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\bin\Debug\netcoreapp3.1\OOP_out.exe
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\bin\Debug\netcoreapp3.1\OOP_out.deps.json
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\bin\Debug\netcoreapp3.1\OOP_out.runtimeconfig.json
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\bin\Debug\netcoreapp3.1\OOP_out.runtimeconfig.dev.json
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\bin\Debug\netcoreapp3.1\OOP_out.dll
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\bin\Debug\netcoreapp3.1\OOP_out.pdb
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.csprojAssemblyReference.cache
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.AssemblyInfoInputs.cache
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.AssemblyInfo.cs
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.csproj.CoreCompileInputs.cache
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.dll
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.pdb
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\OOP_out\obj\Debug\netcoreapp3.1\OOP_out.genruntimeconfig.cache

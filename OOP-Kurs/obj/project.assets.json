@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MeDoSys\\Source\\Repos\\OOP-Kurs\\OOP-Kurs\\REF.csproj",
+      "projectUniqueName": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Git\\OOP-Kurs\\OOP-Kurs\\REF.csproj",
       "projectName": "REF",
-      "projectPath": "C:\\Users\\MeDoSys\\Source\\Repos\\OOP-Kurs\\OOP-Kurs\\REF.csproj",
+      "projectPath": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Git\\OOP-Kurs\\OOP-Kurs\\REF.csproj",
       "packagesPath": "C:\\Users\\MeDoSys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MeDoSys\\Source\\Repos\\OOP-Kurs\\OOP-Kurs\\obj\\",
+      "outputPath": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Git\\OOP-Kurs\\OOP-Kurs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -36,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +48,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

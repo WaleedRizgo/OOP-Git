@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MeDoSys\\source\\repos\\OOP-Kurs\\OOP_out\\OOP_out.csproj": {}
+    "C:\\Users\\MeDoSys\\source\\repos\\OOP-Git\\OOP-Kurs\\OOP_out\\OOP_out.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MeDoSys\\source\\repos\\OOP-Kurs\\OOP_out\\OOP_out.csproj": {
+    "C:\\Users\\MeDoSys\\source\\repos\\OOP-Git\\OOP-Kurs\\OOP_out\\OOP_out.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Kurs\\OOP_out\\OOP_out.csproj",
+        "projectUniqueName": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Git\\OOP-Kurs\\OOP_out\\OOP_out.csproj",
         "projectName": "OOP_out",
-        "projectPath": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Kurs\\OOP_out\\OOP_out.csproj",
+        "projectPath": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Git\\OOP-Kurs\\OOP_out\\OOP_out.csproj",
         "packagesPath": "C:\\Users\\MeDoSys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Kurs\\OOP_out\\obj\\",
+        "outputPath": "C:\\Users\\MeDoSys\\source\\repos\\OOP-Git\\OOP-Kurs\\OOP_out\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
