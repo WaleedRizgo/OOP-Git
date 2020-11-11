@@ -1,0 +1,13 @@
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\bin\Debug\netcoreapp3.1\CreateFolders.exe
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\bin\Debug\netcoreapp3.1\CreateFolders.deps.json
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\bin\Debug\netcoreapp3.1\CreateFolders.runtimeconfig.json
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\bin\Debug\netcoreapp3.1\CreateFolders.runtimeconfig.dev.json
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\bin\Debug\netcoreapp3.1\CreateFolders.dll
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\bin\Debug\netcoreapp3.1\CreateFolders.pdb
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\obj\Debug\netcoreapp3.1\CreateFolders.csprojAssemblyReference.cache
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\obj\Debug\netcoreapp3.1\CreateFolders.AssemblyInfoInputs.cache
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\obj\Debug\netcoreapp3.1\CreateFolders.AssemblyInfo.cs
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\obj\Debug\netcoreapp3.1\CreateFolders.csproj.CoreCompileInputs.cache
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\obj\Debug\netcoreapp3.1\CreateFolders.dll
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\obj\Debug\netcoreapp3.1\CreateFolders.pdb
+C:\Users\MeDoSys\source\repos\OOP-Git\OOP-Kurs\CreateFolders\obj\Debug\netcoreapp3.1\CreateFolders.genruntimeconfig.cache
