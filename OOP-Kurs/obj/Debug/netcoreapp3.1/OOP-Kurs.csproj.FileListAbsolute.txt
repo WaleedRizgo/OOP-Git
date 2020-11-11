@@ -1,0 +1,13 @@
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\bin\Debug\netcoreapp3.1\OOP-Kurs.exe
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\bin\Debug\netcoreapp3.1\OOP-Kurs.deps.json
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\bin\Debug\netcoreapp3.1\OOP-Kurs.runtimeconfig.json
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\bin\Debug\netcoreapp3.1\OOP-Kurs.runtimeconfig.dev.json
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\bin\Debug\netcoreapp3.1\OOP-Kurs.dll
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\bin\Debug\netcoreapp3.1\OOP-Kurs.pdb
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\obj\Debug\netcoreapp3.1\OOP-Kurs.csprojAssemblyReference.cache
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\obj\Debug\netcoreapp3.1\OOP-Kurs.AssemblyInfoInputs.cache
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\obj\Debug\netcoreapp3.1\OOP-Kurs.AssemblyInfo.cs
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\obj\Debug\netcoreapp3.1\OOP-Kurs.csproj.CoreCompileInputs.cache
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\obj\Debug\netcoreapp3.1\OOP-Kurs.dll
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\obj\Debug\netcoreapp3.1\OOP-Kurs.pdb
+C:\Users\MeDoSys\Source\Repos\OOP-Kurs\OOP-Kurs\obj\Debug\netcoreapp3.1\OOP-Kurs.genruntimeconfig.cache
